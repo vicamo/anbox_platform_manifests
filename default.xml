@@ -520,4 +520,7 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
   <project path="anbox" name="anbox" remote="anbox" revision="master" />
+
+  <include name="opengapps.xml" />
+
 </manifest>
